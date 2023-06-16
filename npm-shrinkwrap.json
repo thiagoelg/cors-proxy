@@ -1,12 +1,12 @@
 {
-  "name": "@isomorphic-git/cors-proxy",
-  "version": "0.0.0-development",
+  "name": "@thiagoelg/cors-proxy",
+  "version": "0.0.1",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "@isomorphic-git/cors-proxy",
-      "version": "0.0.0-development",
+      "name": "@thiagoelg/cors-proxy",
+      "version": "0.0.1",
       "license": "MIT",
       "dependencies": {
         "cross-env": "^5.2.0",
